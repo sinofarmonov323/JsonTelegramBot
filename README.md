@@ -1,4 +1,4 @@
-# JsonBot
+# JsonTelegramBot
 
 # Installation
 ```shell
