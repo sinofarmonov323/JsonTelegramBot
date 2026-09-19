@@ -1,14 +1,16 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="jsonbot",
-    version="1.0.7",
+    name="json-telegram-bot",
+    version="0.1.1",
     packages=find_packages(),
     author="https://t.me/jackson_rodger",
     description="A simple Json object to Bot library built on top of a osonbot library",
     long_description=open("README.md", "r", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/sinofarmonov323/jsonbot",
+    license="MIT",
+    license_files=("LICENSE",),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
